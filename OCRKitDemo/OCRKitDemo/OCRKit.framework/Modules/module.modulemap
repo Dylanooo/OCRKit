@@ -1,0 +1,6 @@
+framework module OCRKit {
+  umbrella header "OCRKit.h"
+
+  export *
+  module * { export * }
+}
